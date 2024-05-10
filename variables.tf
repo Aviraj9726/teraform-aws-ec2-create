@@ -13,7 +13,7 @@ variable "images" {
   type = map(string)
 
   default = {
-    "amazon" = "ami-01216e7612243e0ef"
+    "amazon" = "ami-0f58b397bc5c1f2e8"
    /* "ubuntu" = "ami-062df10d14676e201"
     "linux"  = "ami-05c8ca4485f8b138a" */
 
